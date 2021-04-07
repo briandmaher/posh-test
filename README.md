@@ -1,6 +1,6 @@
-# posh-test
-# powershell testing repo
+posh-test
+powershell testing repo
 
-# from how long ago?
+from how long ago?
 
 get-host 
